@@ -13,7 +13,7 @@ def calculate_space_weight(earth_weight, destination):
     else:
         print("incorect information")
     return(calculate_space_weight)
-print
+print(calculate_space_weight)
 
 
                              
